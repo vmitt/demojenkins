@@ -1,3 +1,3 @@
 echo 'Hello'
-var = SAPD
+var='SAPD'
 echo $var
